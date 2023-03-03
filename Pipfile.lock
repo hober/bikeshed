@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "021058a0cb17f2a8985ff7fbc3d536d3c9f35034d1c8e3f5be09009d9cb50f47"
+            "sha256": "c36e41e8395e5891e2af9b9c1c06f0897eab21fdd43107056e69cb63eea076d5"
         },
         "pipfile-spec": 6,
         "requires": {},
@@ -144,7 +144,7 @@
                 "sha256:2163e1640ddb52b7a8c80d0a67a08587e5d245cc9c553a74a847056bc2976b15",
                 "sha256:8ca1e4fcf50d07413d66d1a5e416e42cfdf5851c981d679a09851a6853383b3c"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==4.0.2"
         },
         "attrs": {
@@ -168,7 +168,7 @@
                 "sha256:5a3d016c7c547f69d6f81fb0db9449ce888b418b5b9952cc5e6e66843e9dd845",
                 "sha256:83e9a75d1911279afd89352c68b45348559d1fc0506b054b346651b5e7fee29f"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==2.1.1"
         },
         "cssselect": {
@@ -572,7 +572,7 @@
                 "sha256:934e4d09d108b70eb8a24410af8615294d09d279ce0e7cbcdaef1bd21f932b06",
                 "sha256:f1699c77b73b925cf4937eae31ab282a86dc885c333f2e942513f08f691fc7db"
             ],
-            "markers": "python_version >= '3.6'",
+            "markers": "python_full_version >= '3.6.0'",
             "version": "==1.2.0"
         },
         "urllib3": {
@@ -592,11 +592,11 @@
         },
         "widlparser": {
             "hashes": [
-                "sha256:0073ebd657205c973f6a6b200dc2cd4cba04c5f1326b7b39081e1c55fe9066a3",
-                "sha256:353a4201701aa6fc7ae1d21d701ab6a255791c7038258353fa591f51d20076db"
+                "sha256:80ddc4be7c2cc1747a6b19b87f6d9338fbc88c73ecf3922d88ea52347c3b9f04",
+                "sha256:d7491d6e3d5be3d6a2c57c684aa09f8b57419b4ea12c0d20f577b5a80b8d23f7"
             ],
             "index": "pypi",
-            "version": "==1.1.1"
+            "version": "==1.1.3"
         },
         "yarl": {
             "hashes": [
