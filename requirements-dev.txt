@@ -2,7 +2,7 @@
 -e ./
 
 black==24.2.0
-pylint==3.1.0
+pylint==3.2.6
 ruff==0.4.2
 mypy==1.9.0
 types-aiofiles
